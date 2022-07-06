@@ -46,9 +46,9 @@ void loop(){
     {
       digitalWrite(fanPin, LOW);
       digitalWrite(led1, HIGH);
-      Serial.begin("LED 1 ON");
+      
       digitalWrite(led2, HIGH);
-      Serial.begin("LED 2 HIGH");
+      
       
     }
  
